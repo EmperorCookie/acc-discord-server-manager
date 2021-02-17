@@ -37,11 +37,11 @@ The following features are in the order they will be implemented in. If you want
 1. Option to post race results to a Discord channel
 1. Championships
 1. Public commands system to give more control to the community
-    1. Get driver info (cup, category, standings)
-    1. Get servers info (name, password, status)
-    1. Get event info (schedule, weather)
 1. Custom liveries for managed drivers
     1. Public commands for self management by drivers
+1. Public commands to get driver info (cup, category, standings)
+1. Public commands to get servers info (name, password, status)
+1. Public commands to get event info (schedule, weather, entry list)
 1. Ephemeral/temporary ACC servers
-    1. Public commands for community use
+    1. Public commands to allow the community to create the servers
 1. Secondary agent to manage more than one server with a single bot

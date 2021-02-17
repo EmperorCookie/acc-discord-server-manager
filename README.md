@@ -19,7 +19,7 @@ This software is currently under development. I estimate that the MVP will be re
 1. Add the bot to your server
     1. In the channel where you want admin commands to be sent, type `/admin`
         * To change the admin channel, type `/admin #channel-name` in the admin channel
-    1. To add a channel where the bot will listen for commands, type `/public #channel-name` in the admin channel
+    1. To add a channel where the bot will listen for community commands, type `/public #channel-name` in the admin channel
 
 # How to use
 Use the Discord `/` command context menu as guidance on how to use the bot.

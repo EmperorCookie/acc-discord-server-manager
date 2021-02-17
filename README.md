@@ -45,3 +45,4 @@ The following features are in the order they will be implemented in. If you want
 1. Ephemeral/temporary ACC servers
     1. Public commands to allow the community to create the servers
 1. Secondary agent to manage more than one server with a single bot
+1. Fantasy championships where the community gets points based on a championship

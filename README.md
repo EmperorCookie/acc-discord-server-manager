@@ -2,7 +2,7 @@
 A Discord bot that manages your ACC servers.
 
 # Work in progress
-This software is currently under development. I estimate that the MVP will be ready around mid April 2021 and will include everything listed in the features below. Issues will be used to track feedback and provide support.
+This software is currently under development. I estimate that the MVP will be ready around mid April 2021 and will include everything listed in the features below. Follow this github repository to receive updates. Issues will be used to track feedback and provide support.
 
 # Features
 - Manage individual ACC servers through Discord `/` commands

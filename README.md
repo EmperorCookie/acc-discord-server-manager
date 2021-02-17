@@ -33,7 +33,13 @@ The following features are in the order they will be implemented in. If you want
 1. Automatically updates itself when a new version is released
 1. Manage drivers and entry lists
 1. Schedule future events that start and stop servers, and save the results
+1. Live weather matching for scheduled events
+1. Option to post race results to a Discord channel
+1. Championships
 1. Public commands system to give more control to the community
+    1. Get driver info (cup, category, standings)
+    1. Get servers info (name, password, status)
+    1. Get event info (schedule, weather)
 1. Custom liveries for managed drivers
     1. Public commands for self management by drivers
 1. Ephemeral/temporary ACC servers

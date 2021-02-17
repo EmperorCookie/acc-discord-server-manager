@@ -26,8 +26,11 @@ The following features are in the order they will be implemented in. New feature
 
 1. Manage individual ACC servers
 1. Automatically updates itself when a new version is released
-1. Manage multiple entry lists
+1. Manage drivers and entry lists
 1. Schedule future events that start and stop servers, and save the results
-1. Ephemeral ACC servers
-1. Permission based public commands to give more control to the community
+1. Public commands to give more control to the community
+1. Custom liveries for managed drivers
+    1. Public commands for self management by drivers
+1. Ephemeral/temporary ACC servers
+    1. Public commands for community use
 1. Secondary agent to manage more than one server with a single bot

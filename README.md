@@ -1,10 +1,13 @@
 # acc-discord-server-manager
 A Discord bot that manages your ACC servers.
 
+# Work in progress
+This software is currently under development. I estimate that the MVP will take roughly two months to complete and will include everything listed in the features below. Issues will be used to track feedback and provide support.
+
 # Features
-* Runs on your existing ACC server
-* Acts as a Discord bot with a `/` command interface
-* All configuration is done through json
+- Manage individual ACC servers through Discord `/` commands
+- Runs on your existing ACC server
+- All configuration is done through json
 
 # How to setup
 1. Setup the agent
@@ -25,13 +28,12 @@ Use the Discord `/` command context menu as guidance on how to use the bot.
 There is currently no license. The plan is to provide a free for non-commercial use license. If your usage of this software is in any way connected to something that makes money, contact me for licensing options, I'm very reasonable.
 
 # Feature wishlist
-The following features are in the order they will be implemented in. New features may creep into this list and perturb the order without notice.
+The following features are in the order they will be implemented in. If you want to request a feature, please do so by creating an issue.
 
-1. Manage individual ACC servers
 1. Automatically updates itself when a new version is released
 1. Manage drivers and entry lists
 1. Schedule future events that start and stop servers, and save the results
-1. Public commands to give more control to the community
+1. Public commands system to give more control to the community
 1. Custom liveries for managed drivers
     1. Public commands for self management by drivers
 1. Ephemeral/temporary ACC servers

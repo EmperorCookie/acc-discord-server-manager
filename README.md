@@ -21,6 +21,9 @@ A Discord bot that manages your ACC servers.
 # How to use
 Use the Discord `/` command context menu as guidance on how to use the bot.
 
+# Licensing
+There is currently no license. The plan is to provide a free for non-commercial use license. If your usage of this software is in any way connected to something that makes money, contact me for licensing options, I'm very reasonable.
+
 # Feature wishlist
 The following features are in the order they will be implemented in. New features may creep into this list and perturb the order without notice.
 
